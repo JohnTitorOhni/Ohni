@@ -1,0 +1,354 @@
+/*
+
+WIWET.com - ASP.NET Templates
+
+Build-R Template
+
+*/
+@media only screen and (max-width: 1441px){
+	#collapseMenu ul li{
+		width: 100px;
+	}
+	.about-layout{
+		top: 12.08333333333333vw;
+	}
+	.blog-post .post {
+    	padding: 5%;
+	}
+	.normal-layout h3 {
+    	font-size: 40px;
+	}
+	.offers{
+		max-height: 40vw;
+	}
+
+}
+@media only screen and (max-width: 1281px){
+	.blog-post h2{
+		width: 90%;
+		margin-top: 20px;
+		font-size: 36px;
+	}
+}
+@media only screen and (max-width: 1025px){
+	header nav .container h1{
+		font-size: 80px;
+	}
+	header nav .container h2{
+		font-size: 55px;
+	}
+	#collapseSocial ul li, #collapseMenu ul li{
+		width: 100px;
+	}
+	#collapseSocial ul li:last-child {
+    	margin-left: 64px;
+	}
+	header nav > :not(.down-trigger){
+		top: 75px !important;
+	}
+	#collapseMenu{
+		top: 185px !important;
+		left: 0px;
+		height: auto;
+		padding-bottom: 50px;
+	}
+	#collapseMenu a{
+		font-size: 24px;
+	}
+	#collapseMenu ul li{
+		width: 420px;
+		float: none;
+	    background: #e84444;
+	    height: 70px;
+	    line-height: 70px;
+	}
+	.dropdown.pages-menu .pages-dropdown{
+		min-width: 420px;
+		left: 0px;
+	}
+	#collapseMenu > ul > li:first-child{
+		text-align: right;
+		padding-right: 20px;
+	}
+	.blog-post a.default{
+		margin-top: 15px;
+	}
+	.why-choose h3{
+		margin: 0px;
+	}
+	.why-choose h2{
+		margin: 0px;
+	}
+	.offers{
+		max-height: none;
+	}
+	.about-layout {
+    	top: 6vw;
+	}
+	.services-middle,.services-middle .row > div{
+		height: 80vw;
+	}
+	.services-page h2{
+		font-size: 24px;
+	}
+	.services-page h2:after{
+		margin: 10px 0px;
+	}
+	.services-top a, .services-bottom a{
+		margin-top: 15px;
+	}
+	.light,.regular{
+		font-size: 25px;
+	}
+	.hairline {
+    	font-size: 50px;
+	}
+}
+@media only screen and (max-width: 992px){
+	
+	#collapseSocial{
+		top: 185px !important;
+		right: 0px;
+		height: auto;
+		padding-left: 0px;
+	}
+	#collapseSocial ul li{
+		width: 110px;
+		float: none;
+	    background: #e84444;
+	    height: 70px;
+	    line-height: 70px;
+	    margin: 0px;
+	    padding: 0px;
+	}
+	#collapseSocial ul li:first-child{
+		margin-top: 40px;
+	}
+	#collapseSocial ul li:last-child{
+		margin-left: 0px;
+		margin-top: 40px;
+	}
+	.red-section h2{
+		font-size: 32px;
+	}
+	.light,.regular{
+		font-size: 18px;
+		line-height: 40px;
+		margin-top: 20px;
+	}
+	.hairline {
+    	font-size: 45px;
+    	margin: 0px;
+	}
+	.blog-post h2 {
+    	width: 100%;
+	    margin-top: 0px;
+    	font-size: 24px;
+	}
+	.about-red img{
+		width: 100%;
+	}
+	.we-produce,
+	.services-slider{
+		position: static;
+		margin: 20px 0px;
+	}
+	.we-produce{
+		padding: 15px;
+	}
+	.services-middle{
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+	.services-middle, .services-middle .row > div{
+		height: auto;
+	}
+	.services-bottom{
+		padding-top: 7px;
+	}
+	.achievements h4{
+		margin-bottom: 15px;
+	}
+}
+@media only screen and (max-width: 767px){
+	header nav .container h1 {
+    	font-size: 40px;
+	}
+	header nav .container h2 {
+    	font-size: 28px;
+    	line-height: 36px;
+	}
+	header nav > :not(.down-trigger) {
+    	top: 35px !important;
+	}
+	header nav .logo{
+		width: 120px;
+		height: 80px;
+		line-height: 80px;
+	}
+	header nav .logo img{
+		width: 80%;
+	}
+	.menu-trigger{
+		left: 120px;
+		width: 80px;
+		height: 80px;
+		line-height: 80px;
+	}
+	.social-trigger{
+		width: 80px;
+		height: 80px;
+		line-height: 80px;
+	}
+	.down-trigger{
+		left: 120px;
+		width: 80px;
+		height: 80px;
+		line-height: 80px;
+	}
+	.down-trigger i{
+		font-size: 4em;
+		line-height: 80px;
+	}
+	#collapseMenu{
+		top: 115px !important;
+		padding-bottom: 30px;
+	}
+	#collapseMenu a{
+		font-size: 16px;
+	}
+	#collapseMenu ul li{
+		width: 200px;
+	    height: 60px;
+	    line-height: 60px;
+	}
+	.dropdown.pages-menu .pages-dropdown{
+		min-width: 200px;
+		left: 0px;
+	}
+	#collapseSocial{
+		top: 115px !important;
+	}
+	#collapseSocial ul li{
+		width: 80px;
+		float: none;
+	    background: #e84444;
+	    height: 70px;
+	    line-height: 70px;
+	    margin: 0px;
+	    padding: 0px;
+	}
+	#collapseSocial ul li:first-child{
+		margin-top: 15px;
+	}
+	#collapseSocial ul li:last-child{
+		margin-top: 15px;
+	}
+	footer a.get-it{
+		width: 250px;
+		margin-top: 45px;
+	}
+	footer ul li {
+    	line-height: 60px;
+    	width: 33.3333333333333%;
+	}
+	.join-buildr .default-input,
+	.join-buildr p{
+		margin-bottom: 40px;
+	}
+	.wiwet-skript-tabs .nav>li{
+		margin-right: 15px;
+	}
+	.about-layout{
+		position: static;
+		padding: 10px;
+		width: 100%;
+		margin: 15px 0px;
+	}
+	.about1,.about2,.about3{
+		height: auto;
+	}
+	.provider-quality, .product-quality, .client-services, .support247{
+		padding: 25px 0px;
+	}
+	.send-message form {
+	    padding-left: 25px;
+    	padding-right: 25px;
+    	padding-bottom: 25px;
+	}
+	.socialize h2{
+		font-size: 25px;
+		margin-bottom: 25px;
+	}
+	.socialize h2:after{
+		left: -110px;
+	}
+	.socialize a i{
+	    width: 50px;
+    	height: 50px;
+    	line-height: 50px;
+    	font-size: 2em;
+    	margin: 0px 5px 20px;
+	}
+	.visit-us h2{
+		margin: 25px auto;
+	}
+	.blog-post .post .row span {
+    	margin: 0px 5px;
+	}
+	.blog-post h2 {
+	    margin-top: 20px;
+    	line-height: 30px;
+	}
+	.older-posts a{
+		position: static;
+		margin: 20px 0 0;
+		height: 50px;
+		line-height: 50px;
+	}
+	.styled-select.wiwet-select{
+		margin-bottom: 50px;
+	}
+	.red-section{
+		height: auto;
+		padding: 20px 0px;
+	}
+	.inputs > .row > div:first-child,
+	.buttons > .row > div:first-child,
+	.typography > .row > div:first-child{
+		padding: 0px;
+		margin-bottom: 25px;
+	}
+	.inputs .radio-btn{
+		margin-bottom: 25px;
+	}
+	.buttons a.default{
+		display: block;
+		line-height: 70px;
+		margin-bottom: 70px;
+	}
+	.hairline {
+    	font-size: 35px;
+	}
+	.normal-layout{
+		margin-bottom: 25px;
+	}
+	.achievements h3{
+		margin-top: 60px;
+	}
+	.achievements{
+		height: auto;
+		padding: 50px 0px;
+	}
+
+	.achievements h3:after{
+		margin: 15px 0px;
+	}
+	.scrollup{
+		bottom: 15px;
+		right: 15px;
+	}
+    .send-contact-message {
+        padding-bottom: 20px !important;
+    }
+}
