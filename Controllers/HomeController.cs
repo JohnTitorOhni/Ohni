@@ -13,7 +13,7 @@ namespace Ohni.Controllers
             return View();
         }
 
-        public ActionResult About()
+        public ActionResult OCC()
         {
             return View();
         }
@@ -23,22 +23,22 @@ namespace Ohni.Controllers
             return View();
         }
 
-        public ActionResult Blog()
+        public ActionResult Whitepaper()
         {
             return View();
         }
 
-        public ActionResult Contact()
+        public ActionResult Referrals()
         {
             return View();
         }
 
-        public ActionResult Portfolio()
+        public ActionResult Images()
         {
             return View();
         }
 
-        public ActionResult Services()
+        public ActionResult OBT()
         {
             return View();
         }

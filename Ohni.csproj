@@ -217,22 +217,22 @@
     <Content Include="Views\Home\BlankPage.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Views\Home\About.cshtml" />
+    <Content Include="Views\Home\OCC.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Home\UIElements.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Views\Home\Blog.cshtml" />
+    <Content Include="Views\Home\Whitepaper.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Views\Home\Contact.cshtml" />
+    <Content Include="Views\Home\Referrals.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Views\Home\Portfolio.cshtml" />
+    <Content Include="Views\Home\Images.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Views\Home\Services.cshtml" />
+    <Content Include="Views\Home\OBT.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Home\Error.cshtml" />
@@ -263,7 +263,7 @@
     <VisualStudio>
       <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
         <WebProjectProperties>
-          <UseIIS>True</UseIIS>
+          <UseIIS>False</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>4931</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>

@@ -55,13 +55,13 @@ Build-R Template
 	#collapseMenu a{
 		font-size: 24px;
 	}
-	#collapseMenu ul li{
-		width: 420px;
-		float: none;
-	    background: #e84444;
-	    height: 70px;
-	    line-height: 70px;
-	}
+        #collapseMenu ul li {
+            width: 420px;
+            float: none;
+            background: #010414;
+            height: 70px;
+            line-height: 70px;
+        }
 	.dropdown.pages-menu .pages-dropdown{
 		min-width: 420px;
 		left: 0px;
@@ -112,15 +112,15 @@ Build-R Template
 		height: auto;
 		padding-left: 0px;
 	}
-	#collapseSocial ul li{
-		width: 110px;
-		float: none;
-	    background: #e84444;
-	    height: 70px;
-	    line-height: 70px;
-	    margin: 0px;
-	    padding: 0px;
-	}
+        #collapseSocial ul li {
+            width: 110px;
+            float: none;
+            background: #010414;
+            height: 70px;
+            line-height: 70px;
+            margin: 0px;
+            padding: 0px;
+        }
 	#collapseSocial ul li:first-child{
 		margin-top: 40px;
 	}
@@ -229,15 +229,15 @@ Build-R Template
 	#collapseSocial{
 		top: 115px !important;
 	}
-	#collapseSocial ul li{
-		width: 80px;
-		float: none;
-	    background: #e84444;
-	    height: 70px;
-	    line-height: 70px;
-	    margin: 0px;
-	    padding: 0px;
-	}
+        #collapseSocial ul li {
+            width: 80px;
+            float: none;
+            background: #010414;
+            height: 70px;
+            line-height: 70px;
+            margin: 0px;
+            padding: 0px;
+        }
 	#collapseSocial ul li:first-child{
 		margin-top: 15px;
 	}
