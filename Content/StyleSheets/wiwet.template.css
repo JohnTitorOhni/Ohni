@@ -57,14 +57,14 @@ header nav .container h1{
         background: #010414;
         margin: 10px 0px;
     }
-header nav .container h2{
-	font-weight: 100;
-	font-size: 67px;
-	color: #FFF;
-	line-height: 75px;
-}
+    header nav .container h2 {
+        font-weight: 100;
+        font-size: 80px;
+        color: #FFF;
+        line-height: 75px;
+    }
     header nav .logo {
-        background: #010414;
+        background: rgba(88, 13, 64, 0.3);
         display: block;
         width: 310px;
         height: 110px;
@@ -80,8 +80,8 @@ header nav .container h2{
     width: 110px;
     height: 110px;
     line-height: 110px;
-    color: #FFF;
-    background: #010414;
+    color: rgba(88, 13, 64, 0.3);
+    background: rgba(88, 13, 64, 0.3);
     /*float: left;*/
     position: absolute;
     top: 100px;
@@ -95,11 +95,11 @@ header nav .container h2{
 .down-trigger i{
 	line-height: 110px;
 }
-.down-trigger:focus,.down-trigger:hover,
-.menu-trigger:focus,.menu-trigger:hover,
-.social-trigger:focus,.social-trigger:hover{
-	color: #FFF;
-}
+    .down-trigger:focus, .down-trigger:hover,
+    .menu-trigger:focus, .menu-trigger:hover,
+    .social-trigger:focus, .social-trigger:hover {
+        color: rgba(88, 13, 64, 0.3);
+    }
 .menu-trigger{
 	left: 310px;
 }
@@ -111,7 +111,7 @@ header nav .container h2{
 	top: 10px;
 }
 #collapseMenu {
-    background: #010414;
+    background: rgba(88, 13, 64, 0.3);
     top: 100px;
     left: 310px;
     height: 110px;
